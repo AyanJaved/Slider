@@ -4,7 +4,7 @@ This is a simple slider project built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-You can view the live demo of the slider project [here](#).
+You can view the live demo of the slider project [here](https://ayanjaved.github.io/Slider/).
 
 ## Features
 
